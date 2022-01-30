@@ -1,0 +1,8 @@
+{
+  "name": "gerenciador-cadeira",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a70ca4fa"
+}
